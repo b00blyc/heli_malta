@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: black;
+}
+.helicopter{
+height:250px;
+width: 650px;
+background: white;
+margin: 0 auto;
+}
+h1{
+text-transform: uppercase;
+padding: 5px;
+}
+p{
+	padding: 5px;
+	line-height: 20px;
+}
+.spanRed{
+	color:red;
+	font-weight: bold;
+}
+#spanY{
+	background: yellow;
+}
+#spanB{
+	font-weight: bold;
+}
+#spanUpp{
+	font-size:22px;
+	font-weight: bold;
+}
